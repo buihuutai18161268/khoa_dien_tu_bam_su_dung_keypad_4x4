@@ -1,0 +1,3 @@
+1.nối chân LCD_I2C:https://arduinokit.vn/giao-tiep-i2c-lcd-arduino/
+2.nối chân servo:https://iotmaker.vn/dong-co-rc-servo-9g-sg90.html(đổi thành chân số 3)
+3.nối chân ma trận phím:http://arduino.vn/bai-viet/915-huong-dan-su-dung-module-ban-phim-4x4-voi-arduino
